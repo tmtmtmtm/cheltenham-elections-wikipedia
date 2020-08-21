@@ -133,16 +133,16 @@ Q5082396,Charles Schreiber,Q9626,Conservative Party (UK),1157,Q2074533,General e
 Q5480202,Francis Berkeley,Q622441,Liberal Party (UK),1129,Q2074533,General election 1865,2
 Q5480202,Francis Berkeley,Q622441,Liberal Party (UK),922,Q4345445,General election 1859,1
 Q5082396,Charles Schreiber,Q9626,Conservative Party (UK),910,Q4345445,General election 1859,2
-Q5480202,Francis Berkeley,Q108700,Whigs (British political party),841,,"By-election, 8 May 1856",1
-Q5339500,Edmund Gilling Hallewell,Q9626,Conservative Party (UK),655,,"By-election, 8 May 1856",2
-Q5607504,Grenville Berkeley,Q108700,Whigs (British political party),760,,"By-election, 14 July 1855",1
-,William Ridler,Q9626,Conservative Party (UK),178,,"By-election, 14 July 1855",2
+Q5480202,Francis Berkeley,Q108700,Whigs (British political party),841,Q98545135,"By-election, 8 May 1856",1
+Q5339500,Edmund Gilling Hallewell,Q9626,Conservative Party (UK),655,Q98545135,"By-election, 8 May 1856",2
+Q5607504,Grenville Berkeley,Q108700,Whigs (British political party),760,Q98545137,"By-election, 14 July 1855",1
+,William Ridler,Q9626,Conservative Party (UK),178,Q98545137,"By-election, 14 July 1855",2
 Q5182718,Craven Berkeley,Q108700,Whigs (British political party),999,Q3943728,General election 1852,1
 Q8022226,Willoughby Jones,Q9626,Conservative Party (UK),869,Q3943728,General election 1852,2
-Q5607504,Grenville Berkeley,Q108700,Whigs (British political party),986,,"By-election, 4 September 1848",1
-Q26756030,Bickham Escott,Q9626,Conservative Party (UK),835,,"By-election, 4 September 1848",2
-Q5182718,Craven Berkeley,Q108700,Whigs (British political party),1024,,"By-election, 29 June 1848",1
-Q6128407,James Agg-Gardner,Q9626,Conservative Party (UK),848,,"By-election, 29 June 1848",2
+Q5607504,Grenville Berkeley,Q108700,Whigs (British political party),986,Q98545142,"By-election, 4 September 1848",1
+Q26756030,Bickham Escott,Q9626,Conservative Party (UK),835,Q98545142,"By-election, 4 September 1848",2
+Q5182718,Craven Berkeley,Q108700,Whigs (British political party),1024,Q98545146,"By-election, 29 June 1848",1
+Q6128407,James Agg-Gardner,Q9626,Conservative Party (UK),848,Q98545146,"By-election, 29 June 1848",2
 Q8022226,Willoughby Jones,Q9626,Conservative Party (UK),1015,Q2073198,General election 1847,1
 Q5182718,Craven Berkeley,Q108700,Whigs (British political party),907,Q2073198,General election 1847,2
 ,Edmund Carrington Smith,Q9626,Conservative Party (UK),4,Q2073198,General election 1847,3
